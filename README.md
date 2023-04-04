@@ -10,7 +10,7 @@ I am Marco Rizzo and I am a Mathematical Engineering Student at Politecnico di M
 * [Artificial Neural Networks and Deep Learning Challenges](https://github.com/RizzoMarco/Artificial-Neural-Networks-and-Deep-Learning-Course-Challenges)
  
 📌 **Projects**:
-* [Client segmentation] (https://github.com/RizzoMarco/Client-segmentation)
+* [Client segmentation](https://github.com/RizzoMarco/Client-segmentation)
 * [Data fusion for estimating ambient air pollution with spatial disalignment](https://github.com/RizzoMarco/Data-fusion-for-estimating-ambient-air-pollution-with-spatial-disalignment)
 
 📫 **Contacts**:
