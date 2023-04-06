@@ -1,6 +1,6 @@
 ### Hi there, I'm Marco! 👋
 
-I am Marco Rizzo and I am a Mathematical Engineering Student at Politecnico di Milano. My studies are focused on **Statistics**, **Machine Learning** and **Data Science**.
+I'm Marco Rizzo and I'm a Mathematical Engineering Student at Politecnico di Milano. My studies are focused on **Statistics**, **Machine Learning** and **Data Science**.
 
 🎓 **Education**:
 * Master of Science in Statistical Learning, Mathematical Engineering at Politecnico di Milano
