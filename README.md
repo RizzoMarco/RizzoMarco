@@ -3,6 +3,7 @@
 I'm Marco Rizzo and I'm a Mathematical Engineering Student at Politecnico di Milano. My studies are focused on **Statistics**, **Machine Learning** and **Data Science**.
 
 🎓 **Education**:
+* Master's Thesis student at Universitat Politècnica de Catalunya
 * Master of Science in Statistical Learning, Mathematical Engineering at Politecnico di Milano
 * Bachelor of Science in Mathematical Engineering at Politecnico di Milano
 
