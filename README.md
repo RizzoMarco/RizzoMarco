@@ -1,6 +1,6 @@
 ### Hi there, I'm Marco! 👋
 
-I'm Marco Rizzo and I'm a Data Scientist Intern @ Wind Tre. I have studied Mathematical Engineering at Politecnico di Milano, so my focus is on **Statistics**, **Machine Learning** and **Data Science**.
+I'm Marco Rizzo and I'm a Data Science & AI Intern @ Wind Tre. I have studied Mathematical Engineering at Politecnico di Milano, so my focus is on **Statistics**, **Machine Learning** and **Data Science**.
 
 🎓 **Education**:
 * Master's Thesis student at Universitat Politècnica de Catalunya
